@@ -1,0 +1,15 @@
+button{
+    padding: 5px 35px 5px 35px;
+    font-size: 1.4rem;
+    border: solid orange 1px;
+    background-color: black;
+    color:aliceblue;
+    transition: all 0.2s ;
+}
+button:hover{
+   padding: 8px 40px 8px 40px;
+}
+button:active{
+    background-color: white;
+}
+
